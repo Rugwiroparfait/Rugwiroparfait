@@ -14,8 +14,8 @@ I'm passionate about building scalable applications and automating workflows. Cu
 - 📧 Email: rugwiroparfait003@gmail.com  
 - 📞 Tel: +250783438101  
 - 🌐 LinkedIn: [Rugwiroparfait](https://www.linkedin.com/in/nsanzimana-rugwiro-dominique-parfait-a3ba9122a/)  
-- 🐦 Twitter: [TwitterHandle](https://x.com/RugwiroParfait)  
-- 💼 Stack Overflow: [Stack Overflow Profile](https://stackoverflow.com/users/22454360/rugwiro-parfait)
+- 🐦 Twitter: [Rugwiroparfait](https://x.com/RugwiroParfait)  
+- 💼 Stack Overflow: [RugwiroParfait](https://stackoverflow.com/users/22454360/rugwiro-parfait)
 
 ### Projects 🚀
 - **AfriExplore**: A Flask-based web app for sharing African adventures.
