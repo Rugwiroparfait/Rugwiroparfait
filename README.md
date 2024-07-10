@@ -1,7 +1,3 @@
-Here's a visually appealing GitHub profile README for NSANZIMANA RUGWIRO Dominique Parfait:
-
----
-
 # Hello, I'm Dominique Parfait 👋
 ![Dominique Parfait](https://your-image-url.com)
 
