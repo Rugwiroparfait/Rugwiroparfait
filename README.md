@@ -18,7 +18,7 @@ I'm passionate about building scalable applications and automating workflows. Cu
 - 💼 Stack Overflow: [RugwiroParfait](https://stackoverflow.com/users/22454360/rugwiro-parfait)
 
 ### Projects 🚀
-- **AfriExplore**: A Flask-based web app for sharing African adventures.
+- ![**AfriExplore**](http://54.236.51.195/login?next=%2Fhome): A Flask-based web app for sharing African adventures.
 
 ### GitHub Stats 📊
 ![Dominique Parfait's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rugwiroparfait&show_icons=true&theme=radical)
