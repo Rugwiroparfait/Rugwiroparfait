@@ -1,5 +1,5 @@
 # Hello, I'm Dominique Parfait 👋
-![Dominique Parfait](https://your-image-url.com)
+![Dominique Parfait]([https://your-image-url.com](https://www.linkedin.com/in/nsanzimana-rugwiro-dominique-parfait-a3ba9122a/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=rw))
 
 🌍 Developer from Rwanda 🇷🇼  
 👨‍💻 Python | Nginx | Docker | Flask  
