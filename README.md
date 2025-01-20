@@ -19,7 +19,7 @@ I'm passionate about building scalable applications and automating workflows. Cu
 -   🌐 **LinkedIn**: [Rugwiroparfait](https://www.linkedin.com/in/nsanzimana-rugwiro-dominique-parfait-a3ba9122a/)
 -   🐦 **Twitter**: [Rugwiroparfait](https://x.com/RugwiroParfait)
 -   💼 **Stack Overflow**: [Rugwiroparfait](https://stackoverflow.com/users/22454360/rugwiro-parfait)
--   🌍 **Website**: [Your Portfolio](https://rugwiroparfait.github.io/portifolio/)
+-   🌍 **Website**: [Link to portifolio](https://rugwiroparfait.github.io/portifolio/)
 
 ### 🚀 **Notable Projects**
 
