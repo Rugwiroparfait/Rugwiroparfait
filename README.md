@@ -2,8 +2,6 @@
 
 # Hello, I'm **Rugwiro Parfait** 👋
 
-![Rugwiro Parfait](https://www.linkedin.com/in/nsanzimana-rugwiro-dominique-parfait-a3ba9122a/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=rw)
-
 🌍 Developer from **Rwanda** 🇷🇼  
 👨‍💻 **Python** | **Django** | **Flask** | **React** | **Docker** | **PostgreSQL**  
 🔧 **JavaScript** | **GitHub Actions** | **Redis** | **Nginx**  
