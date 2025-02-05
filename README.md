@@ -15,7 +15,7 @@ I'm passionate about building scalable applications and automating workflows. Cu
 ### 📬 **Contact Me**
 
 -   📧 **Email**: [rugwiroparfait003@gmail.com](mailto:rugwiroparfait003@gmail.com)
--   📞 **Tel**: +250783438101
+-   📞 **Tel**: +250788783057
 -   🌐 **LinkedIn**: [Rugwiroparfait](https://www.linkedin.com/in/nsanzimana-rugwiro-dominique-parfait-a3ba9122a/)
 -   🐦 **Twitter**: [Rugwiroparfait](https://x.com/RugwiroParfait)
 -   💼 **Stack Overflow**: [Rugwiroparfait](https://stackoverflow.com/users/22454360/rugwiro-parfait)
