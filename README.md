@@ -1,23 +1,43 @@
 
-# Hello, I'm **Rugwiro Parfait** 👋  
-I am Rugwiro Parfait, a software engineer and agribusiness enthusiast passionate about building scalable tech solutions and leveraging data-driven strategies to grow businesses. I aspire to bridge technology and agriculture to drive innovation, efficiency, and impact.
+### 👨‍💻 *Software Engineer & Data Scientist*
 
+**RTurning data into insights, and ideas into scalable products.**
 
+---
 
+## 🚀 **About Me**
 
-# 💫 About Me:
+I’m an innovative Software Engineer and Data Scientist passionate about solving complex problems with clean code and intelligent data pipelines. I love building robust backends, deploying smart ML models, and designing user-first solutions.
 
-🔭 I’m currently working on **Konati, Lost & Found App, and RichTube**👯 I’m looking to collaborate on **Web, Mobile, and Automation Projects**🌱 I’m currently learning **Docker, Kubernetes, and Data Science**💬 Ask me about **Django, React, Node.js, and Automation**⚡ Fun fact: **Potatoes are more profitable than you think!**
-# 💻 Tech Stack:
+One of my best projects is **[TangaBid](https://tangabid.live/)** — an intuitive online auction platform that brings transparent and fair bidding to everyone.
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-**“Sometimes it is the people no one imagines anything of who do the things that no one can imagine.”**  ~  **Alan Turing**
+---
+
+## ⚡ **What I Do**
+
+* 🧩 **Software Engineering** — Build scalable, secure applications.
+* 📊 **Data Science & ML** — Turn raw data into actionable insights.
+* 🔗 **API Design & Integration** — Connect systems for seamless data flow.
+* 🌱 **Continuous Learning** — Always exploring the best tools & trends.
 
 
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rugwiroparfait) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](https://youtube.com/@rugwirodev) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/RugwiroParfait)
+## 🛠️ **Tech Stack**
 
+| **Languages & Frameworks**                                       | **Databases**              | **Tools & DevOps**                         |
+| ---------------------------------------------------------------- | -------------------------- | ------------------------------------------ |
+| Python, JavaScript (Node.js, Express), TypeScript, Vue.js, React | PostgreSQL, MySQL, MongoDB | Docker, Git, Linux, Firebase, Figma, Adobe |
+
+---
+
+## 📈 **Featured Project**
+
+### 🎯 **[TangaBid](https://tangabid.live/)**
+
+A smart, fair, and real-time online auction system.
+Built with modern web technologies and designed for scalability.
 
 
 
