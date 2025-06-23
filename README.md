@@ -1,7 +1,7 @@
 
 ### 👨‍💻 *Software Engineer & Data Scientist*
 
-**RTurning data into insights, and ideas into scalable products.**
+**Turning data into insights, and ideas into scalable products.**
 
 ---
 
