@@ -1,42 +1,60 @@
-# 👨‍💻 Software Engineer & Data Scientist  
+<div align="center">
 
-**Building scalable systems. Turning data into impact.**
+  
 
----
+  # Hello, Friend.
+  
+  ### I'm Rugwiro Parfait.
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHFuMWY2ZnNhYm1xc3I4M255MXA0aXZrM2cyNGo5OG9qam1xYXkzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/115BJle6N2Av0A/giphy.gif" width="100%" height="auto"/>
+  <b>Architecting Systems. Decoding Data. Breaking Barriers.</b>
+  
+  <a href="https://rugwiroparfait.cloud">
+    <img src="https://img.shields.io/badge/PORTFOLIO-rugwiroparfait.cloud-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
 
-## ⚡ Expertise
-- **Software Engineering** – Scalable, secure apps  
-- **Data Science & ML** – From raw data to insights  
-- **APIs & Integrations** – Smooth system connections  
-- **DevOps** – Docker, Linux, CI/CD  
-
----
-
-## 🛠️ Tech Stack
-**Languages & Frameworks:** Python, JavaScript (Node.js, Express), TypeScript, React, Vue.js  
-**Databases:** PostgreSQL, MySQL, MongoDB  
-**Tools:** Docker, Git, Firebase, Linux, Figma  
+</div>
 
 ---
 
-## 🚀 Featured Project
-- **[TangaBid](https://tangabid.live/):** Real-time online auction platform  
+### 📡 /sys/user/profile
 
----
+> **System Status:** ONLINE  
+> **Current Objective:** Turning raw chaos into deployed impact.  
+> **Motto:** Control is an illusion. Data is reality.
 
-## 📂 Current & Deployed Projects
-- **Konati** – Mobile app for critical-time location sharing  
-- **Lost & Found App** – Platform to reunite people with items  
-- **[Kasukutss](https://kasukutss.onrender.com/):** Flask app for speech-to-text  
-- **[RichTube](https://drive.google.com/file/d/188hjPL628Z0CqyPUX1O7aj9jxmow-f2f/view?usp=drive_link):** YouTube downloader desktop app  
+```python
+class DigitalArchitect:
+    def __init__(self):
+        self.name = "Rugwiro Parfait"
+        self.role = "Software Engineer & Data Scientist"
+        self.mission = "Build scalable infrastructure & predictive models"
+    
+    def execute_skills(self):
+        return {
+            "engineering": ["Scalable Apps", "API Design", "Microservices"],
+            "data_science": ["Predictive Analytics", "Machine Learning", "Visualization"],
+            "devops": ["Automated CI/CD", "Containerization", "Cloud Security"]
+        }
+```
+<div align="center">
 
----
+  ### 
+  
+  <a href="https://linkedin.com/in/rugwiroparfait">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/RugwiroParfait">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/@rugwirodev">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="mailto:rugwiroparfait003@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
-## 🌐 Connect
-[LinkedIn](https://linkedin.com/in/rugwiroparfait) | [YouTube](https://youtube.com/@rugwirodev) | [Twitter](https://twitter.com/RugwiroParfait)  
-📧 **Email:** rugwiroparfait003@gmail.com  
+  <br /><br />
 
----
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rugwiroparfait&show_icons=true&theme=radical&hide_border=true&bg_color=00000000)
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rugwiroparfait&show_icons=true&theme=radical)
+</div>
