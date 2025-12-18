@@ -1,12 +1,16 @@
 <div align="center">
 
-  
-
   # Hello, Friend.
   
   ### I'm Rugwiro Parfait.
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHFuMWY2ZnNhYm1xc3I4M255MXA0aXZrM2cyNGo5OG9qam1xYXkzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/115BJle6N2Av0A/giphy.gif" width="100%" height="auto"/>
+  
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHFuMWY2ZnNhYm1xc3I4M255MXA0aXZrM2cyNGo5OG9qam1xYXkzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/115BJle6N2Av0A/giphy.gif" width="730px" height="240"/>
+  
+  <br />
+  
   <b>Architecting Systems. Decoding Data. Breaking Barriers.</b>
+  
+  <br /><br />
   
   <a href="https://rugwiroparfait.cloud">
     <img src="https://img.shields.io/badge/PORTFOLIO-rugwiroparfait.cloud-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
