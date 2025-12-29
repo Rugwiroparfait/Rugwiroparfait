@@ -29,7 +29,7 @@
 ```python
 class DigitalArchitect:
     def __init__(self):
-        self.name = "Rugwiro Parfait"
+        self.name = "NSANZIMANA RUGWIRO Dominique Parfait"
         self.role = "Software Engineer & Data Scientist"
         self.mission = "Build scalable infrastructure & predictive models"
     
