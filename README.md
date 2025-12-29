@@ -2,7 +2,7 @@
 
   # Hello, Friend.
   
-  ### I'm Rugwiro Parfait.
+  ### I'm Parfait.
   
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHFuMWY2ZnNhYm1xc3I4M255MXA0aXZrM2cyNGo5OG9qam1xYXkzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/115BJle6N2Av0A/giphy.gif" width="730px" height="240"/>
   
